@@ -1,3 +1,5 @@
+//FIND THE FIRST NON-REPEATED CHARACTER
+
 #include <iostream>
 using namespace std;
 

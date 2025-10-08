@@ -1,3 +1,5 @@
+// CHECK BALANCED PARENTHESES
+
 #include <iostream>
 #include <stack>
 using namespace std;
