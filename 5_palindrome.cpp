@@ -23,12 +23,10 @@ int main()
         start++;
         end--;
     }
-    if (isPalindrome)
-    {
-        cout << "True";
+    if(isPalindrome){
+        cout<<"True";
     }
-    else
-    {
-        cout << "False";
+    else{
+cout<<"False";
     }
 }
